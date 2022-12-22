@@ -1,0 +1,54 @@
+node-wordwrap (1.0.0-3) unstable; urgency=medium
+
+  * Team upload
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints.
+    + node-wordwrap: Add Multi-Arch: foreign.
+
+  [ Bastien Roucariès ]
+  * Remove nodejs depends
+  * Bump standard version (no changes)
+
+ -- Bastien Roucariès <rouca@debian.org>  Mon, 04 Oct 2021 14:33:24 +0000
+
+node-wordwrap (1.0.0-2) unstable; urgency=medium
+
+  * Team upload
+  * Bump debhelper compatibility level to 12
+  * Declare compliance with policy 4.5.0
+  * Add "Rules-Requires-Root: no"
+  * Change section to javascript
+  * Change priority to optional
+  * Add debian/gbp.conf
+  * Add upstream/metadata
+  * Update VCS fields to salsa
+  * Fix copyright
+  * Use pkg-js-tools auto test & install
+  * Enable upstream test using tape
+
+ -- Xavier Guimard <yadd@debian.org>  Sat, 21 Mar 2020 18:36:38 +0100
+
+node-wordwrap (1.0.0-1) unstable; urgency=low
+
+  * Team upload
+  * New upstream release
+  * Bump standards version to 3.9.8
+  * Bump compat to 9
+
+  [ David Paleino ]
+  * Add debian/watch
+
+ -- Pirate Praveen <praveen@debian.org>  Tue, 11 Oct 2016 22:09:28 +0530
+
+node-wordwrap (0.0.2-2) unstable; urgency=low
+
+  * Compliance to Debian Javascript Policy
+
+ -- David Paleino <dapal@debian.org>  Sun, 16 Oct 2011 00:17:19 +0200
+
+wordwrap.js (0.0.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #645174)
+
+ -- David Paleino <dapal@debian.org>  Thu, 13 Oct 2011 11:22:39 +0200

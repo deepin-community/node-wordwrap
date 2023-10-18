@@ -5,7 +5,6 @@ Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.deb
 Uploaders: David Paleino <dapal@debian.org>
 Build-Depends: debhelper-compat (= 13)
  , dh-sequence-nodejs
-Build-Depends-Indep:
  , node-tape <!nocheck>
 Standards-Version: 4.6.0
 Vcs-Browser: https://salsa.debian.org/js-team/node-wordwrap

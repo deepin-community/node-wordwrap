@@ -1,3 +1,10 @@
+node-wordwrap (1.0.0-4) unstable; urgency=medium
+
+  * Team upload
+  * Fix debian/control for Debian::Control (Closes: #1006050)
+
+ -- Yadd <yadd@debian.org>  Sat, 19 Feb 2022 09:06:59 +0100
+
 node-wordwrap (1.0.0-3) unstable; urgency=medium
 
   * Team upload
